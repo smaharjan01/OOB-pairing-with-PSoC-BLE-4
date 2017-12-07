@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator.cydwr</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files\debug.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files\main.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target.cydwr</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Header Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Header Files\ias.h</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files\ias.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files\main.c</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator.cydwr</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files\debug.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Source Files\main.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target.cydwr</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Header Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Header Files\ias.h</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files\ias.c</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Source Files\main.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign\TopDesign.cysch</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\TopDesign\TopDesign.cysch</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator.rpt</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator_timing.html</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target.rpt</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator.rpt</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\BLE_FindMe_Locator_timing.html</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target.rpt</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\BLE_FindMe_Target_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\PSoC 4 Architecture TRM</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\System Reference Guide v4_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\cy_pins_v2_10</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\LED_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Power_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Resistor_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\SCB_P4_v2_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\PSoC 4 Architecture TRM</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\System Reference Guide v4_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_clock_v2_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_isr_v1_70</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_pins_v2_10</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Gnd_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\LED_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Power_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\SCB_P4_v2_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\SwitchSPST_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TCPWM_P4_v2_0</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_OOB_Pairing_Demo</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\PSoC 4 Architecture TRM</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\System Reference Guide v4_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\cy_pins_v2_10</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\LED_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Power_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\Resistor_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Locator\SCB_P4_v2_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\PSoC 4 Architecture TRM</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\System Reference Guide v4_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_clock_v2_20</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_isr_v1_70</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\cy_pins_v2_10</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Gnd_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\LED_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\Power_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\SCB_P4_v2_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\SwitchSPST_v1_0</v>
+<v>BLE_OOB_Pairing_Demo\BLE_FindMe_Target\TCPWM_P4_v2_0</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
